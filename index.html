@@ -8,20 +8,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="header">
-        <div class="container">
-            <div class="logo">
-                <span class="logo-text">Lumia Store</span>
-            </div>
-        </div>
-    </header>
-
-    <section class="hero">
-        <div class="container">
-            <h1>Lumia <span class="highlight">Market</span></h1>
-        </div>
-    </section>
-
     <section class="apps-section">
         <div class="container">
             <div class="search-container">
@@ -48,7 +34,6 @@
             var searchInput = document.getElementById('searchInput');
             var clearBtn = document.getElementById('clearSearchBtn');
             var appsData = [];
-
 
             var defaultApps = [
                 {
@@ -105,11 +90,9 @@
             }
 
             function loadApps() {
-
                 appsData = defaultApps.slice();
                 renderApps('');
                 
-
                 try {
                     var xhr = new XMLHttpRequest();
                     xhr.open('GET', 'store.json', true);
@@ -123,17 +106,13 @@
                                         appsData = data;
                                         renderApps('');
                                     }
-                                } catch (e) {
-                                   
-                                }
+                                } catch (e) {}
                             }
                         }
                     };
                     
                     xhr.send();
-                } catch (e) {
-                    
-                }
+                } catch (e) {}
             }
 
             loadApps();
