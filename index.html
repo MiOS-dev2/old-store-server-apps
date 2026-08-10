@@ -1,1 +1,157 @@
-the server
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Lumia Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <span class="logo-text">Lumia Store</span>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Lumia <span class="highlight">Market</span></h1>
+        </div>
+    </section>
+
+    <section class="apps-section">
+        <div class="container">
+            <div class="search-container">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Поиск приложений">
+                    <button id="clearSearchBtn" class="clear-btn">✕</button>
+                </div>
+            </div>
+            <div class="apps-grid" id="appsContainer">
+                <p class="loading">Загрузка...</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Lumia Old Store</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var container = document.getElementById('appsContainer');
+            var searchInput = document.getElementById('searchInput');
+            var clearBtn = document.getElementById('clearSearchBtn');
+            var appsData = [];
+
+
+            var defaultApps = [
+                {
+                    name: 'Minecraft PE',
+                    icon: 'apps/icons/mine.png',
+                    file: 'apps/Minecraft.appx'
+                },
+                {
+                    name: 'AIDA64',
+                    icon: 'apps/icons/aida.png',
+                    file: 'apps/AIDA64.appxbundle'
+                }
+            ];
+
+            function renderApps(filter) {
+                filter = filter || '';
+                container.innerHTML = '';
+                
+                var filtered = appsData.filter(function(app) {
+                    return app.name.toLowerCase().indexOf(filter.toLowerCase()) !== -1;
+                });
+
+                if (filtered.length === 0) {
+                    container.innerHTML = '<p class="no-apps">Приложения не найдены</p>';
+                    return;
+                }
+
+                for (var i = 0; i < filtered.length; i++) {
+                    var app = filtered[i];
+                    var card = document.createElement('div');
+                    card.className = 'app-card';
+                    
+                    card.innerHTML = 
+                        '<div class="app-icon">' +
+                            '<img src="' + app.icon + '" alt="' + app.name + '">' +
+                        '</div>' +
+                        '<div class="app-info">' +
+                            '<h3 class="app-name">' + app.name + '</h3>' +
+                            '<a href="' + app.file + '" download class="btn-download">Скачать</a>' +
+                        '</div>';
+                    
+                    container.appendChild(card);
+                }
+            }
+
+            function performSearch() {
+                var query = searchInput.value.trim();
+                renderApps(query);
+                if (query.length > 0) {
+                    clearBtn.classList.add('visible');
+                } else {
+                    clearBtn.classList.remove('visible');
+                }
+            }
+
+            function loadApps() {
+
+                appsData = defaultApps.slice();
+                renderApps('');
+                
+
+                try {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open('GET', 'store.json', true);
+                    
+                    xhr.onreadystatechange = function() {
+                        if (xhr.readyState === 4) {
+                            if (xhr.status === 200 || xhr.status === 0) {
+                                try {
+                                    var data = JSON.parse(xhr.responseText);
+                                    if (data && data.length > 0) {
+                                        appsData = data;
+                                        renderApps('');
+                                    }
+                                } catch (e) {
+                                   
+                                }
+                            }
+                        }
+                    };
+                    
+                    xhr.send();
+                } catch (e) {
+                    
+                }
+            }
+
+            loadApps();
+
+            searchInput.addEventListener('input', performSearch);
+            searchInput.addEventListener('keyup', function(e) {
+                if (e.key === 'Enter') {
+                    performSearch();
+                }
+            });
+
+            clearBtn.addEventListener('click', function() {
+                searchInput.value = '';
+                searchInput.focus();
+                this.classList.remove('visible');
+                renderApps('');
+            });
+        });
+    </script>
+</body>
+</html>
