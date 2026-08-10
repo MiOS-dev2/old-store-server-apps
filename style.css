@@ -1,0 +1,321 @@
+/* Базовый сброс */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    line-height: 1.5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+/* ===== HEADER ===== */
+.header {
+    background: #fff;
+    border-bottom: 2px solid #0078d4;
+    padding: 14px 0;
+}
+
+.logo-text {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #222;
+    letter-spacing: -0.5px;
+}
+
+/* ===== HERO ===== */
+.hero {
+    background: #fff;
+    padding: 36px 0 30px;
+    text-align: center;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.hero h1 {
+    font-size: 2.8rem;
+    font-weight: 300;
+    color: #222;
+}
+
+.hero h1 .highlight {
+    color: #0078d4;
+    font-weight: 600;
+}
+
+/* ===== APPS ===== */
+.apps-section {
+    padding: 30px 0 50px;
+    flex: 1;
+}
+
+/* Поиск */
+.search-container {
+    max-width: 400px;
+    margin: 0 auto 30px auto;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border: 2px solid #ccc;
+    padding: 0 12px;
+    height: 40px;
+}
+
+.search-box:focus-within {
+    border-color: #0078d4;
+}
+
+.search-box input {
+    flex: 1;
+    border: none;
+    background: transparent;
+    padding: 8px 0;
+    font-size: 0.95rem;
+    font-family: inherit;
+    color: #222;
+    outline: none;
+    height: 100%;
+}
+
+.search-box input::placeholder {
+    color: #999;
+}
+
+.clear-btn {
+    background: none;
+    border: none;
+    color: #999;
+    font-size: 1rem;
+    padding: 0 4px;
+    cursor: pointer;
+    display: none;
+    font-family: inherit;
+}
+
+.clear-btn.visible {
+    display: block;
+}
+
+.clear-btn:hover {
+    color: #222;
+}
+
+/* Сетка */
+.apps-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+/* Карточка */
+.app-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 20px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: border-color 0.2s;
+}
+
+.app-card:hover {
+    border-color: #0078d4;
+}
+
+/* Иконка */
+.app-icon {
+    width: 72px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    overflow: hidden;
+}
+
+.app-icon img {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    display: block;
+}
+
+/* Информация */
+.app-info {
+    width: 100%;
+}
+
+.app-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+/* Кнопка скачивания */
+.btn-download {
+    display: inline-block;
+    padding: 6px 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    background: #0078d4;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.2s;
+    width: 100%;
+    text-align: center;
+}
+
+.btn-download:hover {
+    background: #005a9e;
+}
+
+.btn-download:active {
+    transform: scale(0.97);
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    background: #fff;
+    border-top: 1px solid #e0e0e0;
+    padding: 16px 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer p {
+    font-size: 0.85rem;
+    color: #666;
+}
+
+/* ===== СОСТОЯНИЯ ===== */
+.no-apps,
+.loading {
+    text-align: center;
+    color: #666;
+    padding: 40px 0;
+    grid-column: 1 / -1;
+}
+
+.loading {
+    animation: pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+/* ===== АДАПТИВНОСТЬ ===== */
+@media (max-width: 600px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .apps-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+    
+    .app-card {
+        padding: 14px 10px 12px;
+    }
+    
+    .app-icon {
+        width: 56px;
+        height: 56px;
+    }
+    
+    .app-icon img {
+        width: 48px;
+        height: 48px;
+    }
+    
+    .app-name {
+        font-size: 0.8rem;
+    }
+    
+    .btn-download {
+        font-size: 0.7rem;
+        padding: 5px 12px;
+    }
+    
+    .search-container {
+        max-width: 100%;
+        padding: 0 4px;
+    }
+    
+    .search-box {
+        height: 36px;
+        padding: 0 10px;
+    }
+    
+    .search-box input {
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .hero h1 {
+        font-size: 1.6rem;
+    }
+    
+    .apps-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 6px;
+    }
+    
+    .app-card {
+        padding: 10px 6px 8px;
+    }
+    
+    .app-icon {
+        width: 44px;
+        height: 44px;
+    }
+    
+    .app-icon img {
+        width: 38px;
+        height: 38px;
+    }
+    
+    .app-name {
+        font-size: 0.7rem;
+    }
+    
+    .btn-download {
+        font-size: 0.6rem;
+        padding: 4px 8px;
+    }
+}
+
+/* Windows Phone 8.1 */
+@-ms-viewport {
+    width: device-width;
+    initial-scale: 1;
+}
+
+* {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+}
