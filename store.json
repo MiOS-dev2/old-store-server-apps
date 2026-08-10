@@ -22,5 +22,45 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free"
+    },
+    {
+        "name": "CMD injector",
+        "icon": "apps/icons/cmd.png",
+        "file": "apps/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free"
+    },
+    {
+        "name": "CMD injector",
+        "icon": "apps/icons/cmd.png",
+        "file": "apps/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free"
+    },
+    {
+        "name": "CMD injector",
+        "icon": "apps/icons/cmd.png",
+        "file": "apps/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free"
+    },
+    {
+        "name": "CMD injector",
+        "icon": "apps/icons/cmd.png",
+        "file": "apps/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free"
+    },
+    {
+        "name": "CMD injector",
+        "icon": "apps/icons/cmd.png",
+        "file": "apps/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free"
     }
 ]
