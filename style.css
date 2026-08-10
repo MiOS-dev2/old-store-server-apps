@@ -79,7 +79,9 @@ body {
 }
 
 .apps-grid {
+    display: -ms-grid;
     display: grid;
+    -ms-grid-columns: 1fr 16px 1fr;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 16px;
 }
@@ -88,8 +90,11 @@ body {
     background: #fff;
     border: 1px solid #ddd;
     padding: 20px 16px 16px;
+    display: -ms-flexbox;
     display: flex;
+    -ms-flex-direction: column;
     flex-direction: column;
+    -ms-flex-align: center;
     align-items: center;
     text-align: center;
 }
@@ -101,20 +106,27 @@ body {
 .app-icon {
     width: 72px;
     height: 72px;
+    display: -ms-flexbox;
     display: flex;
+    -ms-flex-align: center;
     align-items: center;
+    -ms-flex-pack: center;
     justify-content: center;
     background: #f5f5f5;
     border: 1px solid #ddd;
     margin-bottom: 12px;
     overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .app-icon img {
     width: 64px;
     height: 64px;
+    -o-object-fit: contain;
     object-fit: contain;
     display: block;
+    margin: 0 auto;
 }
 
 .app-info {
@@ -126,6 +138,7 @@ body {
     font-weight: 600;
     color: #222;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .btn-download {
