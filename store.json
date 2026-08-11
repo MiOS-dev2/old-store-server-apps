@@ -22,5 +22,13 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free"
+    },
+    {
+        "name": "Open VK",
+        "icon": "apps/icons/openvk.png",
+        "file": "apps/Open_VK-arm.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free"
     }
 ]
