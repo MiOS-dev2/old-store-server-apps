@@ -52,5 +52,41 @@
         "ratings": 843,
         "price": "Free",
         "class": "broswer"
+    },
+    {
+        "name": "2gis карты",
+        "icon": "apps/icons/2gis.jpg",
+        "file": "apps/2gis.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "VK",
+        "icon": "apps/icons/vk.png",
+        "file": "apps/vk.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Doodle Jump",
+        "icon": "apps/icons/dd_g.png",
+        "file": "apps/1754602893_Doodle_Jump_1.0.3.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Frut Nunja",
+        "icon": "apps/icons/frut_n.png",
+        "file": "apps/1761817711_Fruit_Ninja___v1100.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
     }
 ]
