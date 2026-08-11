@@ -5,7 +5,8 @@
         "file": "apps/Minecraft.appx",
         "rating": 4,
         "ratings": 1250,
-        "price": "Free"
+        "price": "Free",
+        "class": "games"
     },
     {
         "name": "AIDA64",
@@ -13,7 +14,8 @@
         "file": "apps/AIDA64.appxbundle",
         "rating": 5,
         "ratings": 843,
-        "price": "Free"
+        "price": "Free",
+        "class": "tools"
     },
     {
         "name": "CMD injector",
@@ -21,7 +23,8 @@
         "file": "apps/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap",
         "rating": 5,
         "ratings": 843,
-        "price": "Free"
+        "price": "Free",
+        "class": "tools"
     },
     {
         "name": "Open VK",
@@ -29,6 +32,25 @@
         "file": "apps/Open_VK-arm.appxbundle",
         "rating": 5,
         "ratings": 843,
-        "price": "Free"
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Edge broswer",
+        "icon": "apps/icons/edge.png",
+        "file": "apps/1753730739_Microsoft_Edge_Unofficial.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "broswer"
+    },
+    {
+        "name": "Yandex",
+        "icon": "apps/icons/yan.png",
+        "file": "apps/yandex.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "broswer"
     }
 ]
