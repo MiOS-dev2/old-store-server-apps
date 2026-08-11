@@ -88,5 +88,113 @@
         "ratings": 843,
         "price": "Free",
         "class": "games"
+    },
+    {
+        "name": "Opera mini",
+        "icon": "apps/icons/opera.png",
+        "file": "apps/1748259866_2_Opera_Mini.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "broswer"
+    },
+    {
+        "name": "Opera mini",
+        "icon": "apps/icons/gai.png",
+        "file": "apps/1789_Gemini_1.0.1.0_x86_x64_arm.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "GMail почта",
+        "icon": "apps/icons/gmail.png",
+        "file": "apps/1760_Gmail_1.0.0.0_arm_Debug.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Fly The Nyan Cat",
+        "icon": "apps/icons/cat_g.png",
+        "file": "apps/1753026165_Fly_The_Nyan_Cat.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "2048!",
+        "icon": "apps/icons/2048.png",
+        "file": "apps/11747680526_2048__1.9.3.0.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Flappy Bird",
+        "icon": "apps/icons/fl_brd.png",
+        "file": "apps/1748259798_2_Flappy_Bird.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Rider 3d",
+        "icon": "apps/icons/rider.png",
+        "file": "apps/1753666706_Rider3D.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Terraria",
+        "icon": "apps/icons/terri.png",
+        "file": "https://open-server-seven.vercel.app/1754502887_Terraria.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "snake",
+        "icon": "apps/icons/snake.jpg",
+        "file": "apps/snake.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Survivalcraft",
+        "icon": "apps/icons/surc.png",
+        "file": "apps/1787_Survivalcraft_1.29.47.0.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Angry Birds",
+        "icon": "apps/icons/a_b.png",
+        "file": "apps/1754595788_Angry_Birds___v1100.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Cublast",
+        "icon": "apps/icons/cub.png",
+        "file": "apps/1754843002_Cublast_v1.5.2.1.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
     }
 ]
