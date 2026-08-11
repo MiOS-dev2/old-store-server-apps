@@ -304,5 +304,41 @@
         "ratings": 843,
         "price": "Free",
         "class": "tools"
+    },
+    {
+        "name": "MetroTube",
+        "icon": "apps/icons/metro_tube.png",
+        "file": "apps/1753444203_MetroTube_Patched_1.3_BETA__Build_135_.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Демократия",
+        "icon": "apps/icons/demok.png",
+        "file": "apps/1757169224_Demokratia_v1.3.0.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "Minesweeper",
+        "icon": "apps/icons/mines.png",
+        "file": "apps/1747673391_2_Minesweeper.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "8zip",
+        "icon": "apps/icons/8zip.png",
+        "file": "apps/1747686448_8_Zip_v1_2_132_0.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
     }
 ]
