@@ -196,5 +196,113 @@
         "ratings": 843,
         "price": "Free",
         "class": "games"
+    },
+    {
+        "name": "4PDA",
+        "icon": "apps/icons/4pda.png",
+        "file": "apps/4PDA_1.0.0.0.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Unison",
+        "icon": "apps/icons/unison.png",
+        "file": "apps/1746_Unison_v.1.0.0.0.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "PDF Reader",
+        "icon": "apps/icons/pdf_r.png",
+        "file": "apps/11748260679_6_PDF_reader.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "PDF Reader",
+        "icon": "apps/icons/pdf_r.png",
+        "file": "apps/11748260679_6_PDF_reader.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "Instagram port",
+        "icon": "apps/icons/insta.jpg",
+        "file": "apps/1754931073_Instagram_BETA__Retrogram_.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "UC Browser",
+        "icon": "apps/icons/uc_bros.png",
+        "file": "apps/1756648391_UCBrowser_v4.2.1.542.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "broswer"
+    },
+    {
+        "name": "MixRadio",
+        "icon": "apps/icons/mix_r.png",
+        "file": "apps/1774_MixRadio_Bridge.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "MP Gram (Telegram)",
+        "icon": "apps/icons/mp_g.png",
+        "file": "apps/1748014500_Mpgram_v1.0.0.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Kutegram",
+        "icon": "apps/icons/kute_g.jpg",
+        "file": "apps/1754737547_Kutegram_windows_phone_1_2_0.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Avito (Computershik)",
+        "icon": "apps/icons/avito.jpg",
+        "file": "apps/Avito_2.1.1.0_ARM.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Sber Bank (Computershik)",
+        "icon": "apps/icons/sber.png",
+        "file": "apps/1766168631_SberQML_0.6.0.0_ARM.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "APP installer",
+        "icon": "apps/icons/app_inst.png",
+        "file": "apps/1778_AppInstaller_by_MS__3_.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
     }
 ]
