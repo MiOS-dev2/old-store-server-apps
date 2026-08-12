@@ -421,5 +421,68 @@
         "ratings": 843,
         "price": "Free",
         "class": "mas"
+    },
+    {
+        "name": "Imgur",
+        "icon": "apps/icons/imgur.png",
+        "file": "apps/1776_Imgur.Uwp_3.0.1.0_arm.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "DOS BOX Emulator",
+        "icon": "apps/icons/dos_box.png",
+        "file": "apps/1747786372_Dosbox_2.0.6.1.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "PPSSPP Emulator",
+        "icon": "apps/icons/ppsspp.png",
+        "file": "apps/1747730776_PPSSPP_UWP_1.9.2.16_ARM.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "Mega",
+        "icon": "apps/icons/mega.jpg",
+        "file": "apps/1747685488_Mega.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "Smash It!",
+        "icon": "apps/icons/sm_h.png",
+        "file": "apps/1754838859_20512_Smash_hit_v1.0.0.1.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "VPN Unlimited",
+        "icon": "apps/icons/vpn1.jpg",
+        "file": "apps/1757020085_VPNUnlimited_EncryptedSecurePrivateIntern_4.14.1.52.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "VPN Unlimited",
+        "icon": "apps/icons/vpn1.jpg",
+        "file": "apps/1757020085_VPNUnlimited_EncryptedSecurePrivateIntern_4.14.1.52.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
     }
 ]
