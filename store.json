@@ -340,5 +340,68 @@
         "ratings": 843,
         "price": "Free",
         "class": "tools"
+    },
+    {
+        "name": "VLC Media Player",
+        "icon": "apps/icons/vlc.png",
+        "file": "apps/1747681076_vlc_for_windows_phone.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "Microsoft Office Blogs",
+        "icon": "apps/icons/of_blg.png",
+        "file": "apps/Microsoft_Office_Blogs_v.1.1.0.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "Google Maps",
+        "icon": "apps/icons/gm_m.png",
+        "file": "apps/1757234047_Google.Maps_PWA_.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "WinPhoneYT",
+        "icon": "apps/icons/you_tm.png",
+        "file": "apps/1748447812_WinPhoneYT_Release_1_3.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "Ascii Camera",
+        "icon": "apps/icons/asc_cam.png",
+        "file": "apps/AsciiCamera___ASCII_Art_Photo_Maker_v1.7.0.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
+    },
+    {
+        "name": "iClone",
+        "icon": "apps/icons/icln.png",
+        "file": "apps/iClone_v2.5.0.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "games"
+    },
+    {
+        "name": "File Broswer",
+        "icon": "apps/icons/fl_br.png",
+        "file": "apps/File_Browser_v1.0.0.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "tools"
     }
 ]
