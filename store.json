@@ -99,7 +99,7 @@
         "class": "broswer"
     },
     {
-        "name": "Opera mini",
+        "name": "Google Gemini",
         "icon": "apps/icons/gai.png",
         "file": "apps/1789_Gemini_1.0.1.0_x86_x64_arm.appxbundle",
         "rating": 5,
@@ -155,7 +155,7 @@
     {
         "name": "Terraria",
         "icon": "apps/icons/terri.png",
-        "file": "https://open-server-seven.vercel.app/1754502887_Terraria.xap",
+        "file": "https://cozy-marigold-d49ca6.netlify.app/1754502887_Terraria.xap",
         "rating": 5,
         "ratings": 843,
         "price": "Free",
@@ -403,5 +403,23 @@
         "ratings": 843,
         "price": "Free",
         "class": "tools"
+    },
+    {
+        "name": "Luna VK",
+        "icon": "apps/icons/lunavk.png",
+        "file": "https://cozy-marigold-d49ca6.netlify.app/1747785683_LunaVK_1.2.128.0_x86_arm.appxbundle",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "Telegram",
+        "icon": "apps/icons/telegram.png",
+        "file": "https://cozy-marigold-d49ca6.netlify.app/Telegram+Messenger_3.4.1.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
     }
 ]
