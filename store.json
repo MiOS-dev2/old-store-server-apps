@@ -477,9 +477,18 @@
         "class": "tools"
     },
     {
-        "name": "VPN Unlimited",
-        "icon": "apps/icons/vpn1.jpg",
-        "file": "apps/1757020085_VPNUnlimited_EncryptedSecurePrivateIntern_4.14.1.52.appxbundle",
+        "name": "Tubecast",
+        "icon": "apps/icons/tube_cast.jpg",
+        "file": "apps/1752181163_tubecastpro_3.1.8.1.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "class": "mas"
+    },
+    {
+        "name": "IP Geo Location",
+        "icon": "apps/icons/ip_g_l.jpg",
+        "file": "apps/1748355388_IP_Geo_Location_v.1.1.17.0.appx",
         "rating": 5,
         "ratings": 843,
         "price": "Free",
