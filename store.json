@@ -6,6 +6,7 @@
         "rating": 4,
         "ratings": 1250,
         "price": "Free",
+        "ops": "Легенда!",
         "class": "games"
     },
     {
@@ -15,6 +16,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Просмотр комплектующик телефона",
         "class": "tools"
     },
     {
@@ -24,6 +26,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Необходимый инструмент",
         "class": "tools"
     },
     {
@@ -33,6 +36,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент OpenVK",
         "class": "mas"
     },
     {
@@ -42,6 +46,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "broswer"
     },
     {
@@ -51,6 +56,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Браузер Яндекс (Они мне зарекламу не ПЛАТИЛИ БЛ)",
         "class": "broswer"
     },
     {
@@ -60,6 +66,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "2гис русские карты",
         "class": "tools"
     },
     {
@@ -69,6 +76,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "mas"
     },
     {
@@ -78,6 +86,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -87,6 +96,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -96,6 +106,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "broswer"
     },
     {
@@ -105,6 +116,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "mas"
     },
     {
@@ -114,6 +126,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "mas"
     },
     {
@@ -123,6 +136,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -132,6 +146,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -141,6 +156,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -150,6 +166,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -159,6 +176,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -168,6 +186,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Успокаивает",
         "class": "games"
     },
     {
@@ -177,6 +196,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -186,6 +206,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -195,6 +216,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -204,6 +226,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент форума 4PDA",
         "class": "mas"
     },
     {
@@ -213,6 +236,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Неофицальный клиент WhatsApp",
         "class": "mas"
     },
     {
@@ -222,6 +246,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
     },
     {
@@ -231,6 +256,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
     },
     {
@@ -240,6 +266,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент Инстаграм",
         "class": "mas"
     },
     {
@@ -249,6 +276,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "broswer"
     },
     {
@@ -258,6 +286,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
     },
     {
@@ -267,6 +296,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Неофицальный клиент Telegram",
         "class": "mas"
     },
     {
@@ -276,6 +306,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Неофицальный клиент Telegram",
         "class": "mas"
     },
     {
@@ -285,6 +316,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент Avito от Computershik",
         "class": "mas"
     },
     {
@@ -294,6 +326,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент Sber Bank By Computershik",
         "class": "tools"
     },
     {
@@ -303,6 +336,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "кастомный установщик приложений",
         "class": "tools"
     },
     {
@@ -312,6 +346,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Неофицальный клиент YouTube",
         "class": "mas"
     },
     {
@@ -321,6 +356,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Демократии нету!",
         "class": "games"
     },
     {
@@ -330,6 +366,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -339,6 +376,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Архиватор",
         "class": "tools"
     },
     {
@@ -348,6 +386,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Популярный медиа плеер",
         "class": "tools"
     },
     {
@@ -357,6 +396,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
     },
     {
@@ -366,6 +406,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Карты",
         "class": "tools"
     },
     {
@@ -375,6 +416,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Неофицальный клиент YouTube",
         "class": "tools"
     },
     {
@@ -384,6 +426,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
     },
     {
@@ -393,6 +436,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Кастомный рабочий стол в стиле iOS 6",
         "class": "games"
     },
     {
@@ -402,6 +446,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Файловый менеджер",
         "class": "tools"
     },
     {
@@ -411,6 +456,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент VK для Windows 10 Mobile",
         "class": "mas"
     },
     {
@@ -420,6 +466,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "mas"
     },
     {
@@ -429,6 +476,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "mas"
     },
     {
@@ -438,6 +486,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Эмулятор DOS ",
         "class": "tools"
     },
     {
@@ -447,6 +496,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
     },
     {
@@ -456,6 +506,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Клиент Mega",
         "class": "tools"
     },
     {
@@ -465,6 +516,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "games"
     },
     {
@@ -474,6 +526,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "VPN клиент",
         "class": "tools"
     },
     {
@@ -483,6 +536,7 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "Неофицальный клиент YouTube",
         "class": "mas"
     },
     {
@@ -492,6 +546,27 @@
         "rating": 5,
         "ratings": 843,
         "price": "Free",
+        "ops": "",
         "class": "tools"
+    },
+    {
+        "name": "Geometry Dash",
+        "icon": "apps/icons/g_d_g.png",
+        "file": "https://cozy-marigold-d49ca6.netlify.app/1747672190_geometrydash.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free",
+        "ops": "Игра каторая ломает нервы и телефон",
+        "class": "games"
+    },
+    {
+        "name": "Silveos Phone",
+        "icon": "apps/icons/sil_p.png",
+        "file": "apps/1753134981_Silveos_Phone.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "games"
     }
 ]
