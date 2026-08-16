@@ -568,5 +568,15 @@
         "price": "Free", 
         "ops": "",
         "class": "games"
+    },
+    {
+        "name": "WinDesk shell 8.1",
+        "icon": "apps/icons/win_d.png",
+        "file": "apps/WinDesk.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "games"
     }
 ]
