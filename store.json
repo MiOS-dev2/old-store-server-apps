@@ -578,5 +578,65 @@
         "price": "Free", 
         "ops": "",
         "class": "games"
+    },
+    {
+        "name": "Pixel art studio",
+        "icon": "apps/icons/pxart.jpg",
+        "file": "apps/1754603720_PixelArtStudio_2.26.149.0.appxbundle.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "tools"
+    },
+    {
+        "name": "Ozon",
+        "icon": "apps/icons/ozon.png",
+        "file": "apps/1759_OZON_PWA_.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "tools"
+    },
+    {
+        "name": "WildBerries",
+        "icon": "apps/icons/wb.jpg",
+        "file": "apps/1757_WildBerries_PWA_.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "tools"
+    },
+    {
+        "name": "Google",
+        "icon": "apps/icons/ggll.jpg",
+        "file": "apps/1748990472_Google_v.1.0.0.0.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "broswer"
+    },
+    {
+        "name": "YouTube",
+        "icon": "apps/icons/yttb.png",
+        "file": "apps/1763897155_Youtube_Patched_BETA2.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "tools"
+    },
+    {
+        "name": "Admin Shell",
+        "icon": "apps/icons/adshell.png",
+        "file": "apps/1822_AdminShell_v1.1.xap",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "",
+        "class": "tools"
     }
 ]
