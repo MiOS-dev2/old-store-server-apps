@@ -638,5 +638,15 @@
         "price": "Free", 
         "ops": "",
         "class": "tools"
+    },
+    {
+        "name": "Lovit (Max port)",
+        "icon": "apps/icons/lovit.png",
+        "file": "apps/Lovit_1.1.0.152_ARM.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "порт месенджера MAX by Computershik",
+        "class": "mas"
     }
 ]
