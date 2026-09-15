@@ -7,7 +7,8 @@
         "ratings": 1250,
         "price": "Free",
         "ops": "Легенда!",
-        "class": "games"
+        "class": "games",
+        "number": "1"
     },
     {
         "name": "AIDA64",
@@ -17,7 +18,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Просмотр комплектующик телефона",
-        "class": "tools"
+        "class": "tools",
+        "number": "2"
     },
     {
         "name": "CMD injector",
@@ -27,7 +29,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Необходимый инструмент",
-        "class": "tools"
+        "class": "tools",
+        "number": "3"
     },
     {
         "name": "Open VK",
@@ -37,7 +40,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент OpenVK",
-        "class": "mas"
+        "class": "mas",
+        "number": "4"
     },
     {
         "name": "Edge broswer",
@@ -47,7 +51,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "broswer"
+        "class": "broswer",
+        "number": "5"
     },
     {
         "name": "Yandex",
@@ -57,7 +62,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Браузер Яндекс (Они мне зарекламу не ПЛАТИЛИ БЛ)",
-        "class": "broswer"
+        "class": "broswer",
+        "number": "6"
     },
     {
         "name": "2gis карты",
@@ -67,7 +73,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "2гис русские карты",
-        "class": "tools"
+        "class": "tools",
+        "number": "7"
     },
     {
         "name": "VK",
@@ -77,7 +84,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "mas"
+        "class": "mas",
+        "number": "8"
     },
     {
         "name": "Doodle Jump",
@@ -87,7 +95,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "9"
     },
     {
         "name": "Frut Nunja",
@@ -97,7 +106,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "10"
     },
     {
         "name": "Opera mini",
@@ -107,7 +117,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "broswer"
+        "class": "broswer",
+        "number": "11"
     },
     {
         "name": "Google Gemini",
@@ -117,7 +128,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "mas"
+        "class": "mas",
+        "number": "12"
     },
     {
         "name": "GMail почта",
@@ -127,7 +139,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "mas"
+        "class": "mas",
+        "number": "13"
     },
     {
         "name": "Fly The Nyan Cat",
@@ -137,7 +150,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "14"
     },
     {
         "name": "2048!",
@@ -147,7 +161,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "15"
     },
     {
         "name": "Flappy Bird",
@@ -157,7 +172,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "16"
     },
     {
         "name": "Rider 3d",
@@ -167,7 +183,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "17"
     },
     {
         "name": "Terraria",
@@ -177,7 +194,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "18"
     },
     {
         "name": "snake",
@@ -187,7 +205,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Успокаивает",
-        "class": "games"
+        "class": "games",
+        "number": "19"
     },
     {
         "name": "Survivalcraft",
@@ -197,7 +216,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "20"
     },
     {
         "name": "Angry Birds",
@@ -207,7 +227,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "21"
     },
     {
         "name": "Cublast",
@@ -217,7 +238,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "22"
     },
     {
         "name": "4PDA",
@@ -227,7 +249,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент форума 4PDA",
-        "class": "mas"
+        "class": "mas",
+        "number": "23"
     },
     {
         "name": "Unison",
@@ -237,7 +260,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Неофицальный клиент WhatsApp",
-        "class": "mas"
+        "class": "mas",
+        "number": "24"
     },
     {
         "name": "PDF Reader",
@@ -247,7 +271,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "25"
     },
     {
         "name": "PDF Reader",
@@ -257,7 +282,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "26"
     },
     {
         "name": "Instagram port",
@@ -267,7 +293,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент Инстаграм",
-        "class": "mas"
+        "class": "mas",
+        "number": "27"
     },
     {
         "name": "UC Browser",
@@ -277,7 +304,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "broswer"
+        "class": "broswer",
+        "number": "28"
     },
     {
         "name": "MixRadio",
@@ -287,7 +315,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "29"
     },
     {
         "name": "MP Gram (Telegram)",
@@ -297,7 +326,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Неофицальный клиент Telegram",
-        "class": "mas"
+        "class": "mas",
+        "number": "30"
     },
     {
         "name": "Kutegram",
@@ -307,7 +337,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Неофицальный клиент Telegram",
-        "class": "mas"
+        "class": "mas",
+        "number": "31"
     },
     {
         "name": "Avito (Computershik)",
@@ -317,7 +348,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент Avito от Computershik",
-        "class": "mas"
+        "class": "mas",
+        "number": "32"
     },
     {
         "name": "Sber Bank (Computershik)",
@@ -327,7 +359,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент Sber Bank By Computershik",
-        "class": "tools"
+        "class": "tools",
+        "number": "33"
     },
     {
         "name": "APP installer",
@@ -337,7 +370,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "кастомный установщик приложений",
-        "class": "tools"
+        "class": "tools",
+        "number": "34"
     },
     {
         "name": "MetroTube",
@@ -347,7 +381,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Неофицальный клиент YouTube",
-        "class": "mas"
+        "class": "mas",
+        "number": "35"
     },
     {
         "name": "Демократия",
@@ -357,7 +392,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Демократии нету!",
-        "class": "games"
+        "class": "games",
+        "number": "36"
     },
     {
         "name": "Minesweeper",
@@ -367,7 +403,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "37"
     },
     {
         "name": "8zip",
@@ -377,7 +414,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Архиватор",
-        "class": "tools"
+        "class": "tools",
+        "number": "38"
     },
     {
         "name": "VLC Media Player",
@@ -387,7 +425,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Популярный медиа плеер",
-        "class": "tools"
+        "class": "tools",
+        "number": "39"
     },
     {
         "name": "Microsoft Office Blogs",
@@ -397,7 +436,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "40"
     },
     {
         "name": "Google Maps",
@@ -407,7 +447,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Карты",
-        "class": "tools"
+        "class": "tools",
+        "number": "41"
     },
     {
         "name": "WinPhoneYT",
@@ -417,7 +458,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Неофицальный клиент YouTube",
-        "class": "tools"
+        "class": "tools",
+        "number": "42"
     },
     {
         "name": "Ascii Camera",
@@ -427,7 +469,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "43"
     },
     {
         "name": "iClone",
@@ -437,7 +480,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Кастомный рабочий стол в стиле iOS 6",
-        "class": "games"
+        "class": "games",
+        "number": "44"
     },
     {
         "name": "File Broswer",
@@ -447,7 +491,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Файловый менеджер",
-        "class": "tools"
+        "class": "tools",
+        "number": "45"
     },
     {
         "name": "Luna VK",
@@ -457,7 +502,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент VK для Windows 10 Mobile",
-        "class": "mas"
+        "class": "mas",
+        "number": "46"
     },
     {
         "name": "Telegram",
@@ -467,7 +513,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "mas"
+        "class": "mas",
+        "number": "47"
     },
     {
         "name": "Imgur",
@@ -477,7 +524,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "mas"
+        "class": "mas",
+        "number": "48"
     },
     {
         "name": "DOS BOX Emulator",
@@ -487,7 +535,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Эмулятор DOS ",
-        "class": "tools"
+        "class": "tools",
+        "number": "49"
     },
     {
         "name": "PPSSPP Emulator",
@@ -497,7 +546,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "50"
     },
     {
         "name": "Mega",
@@ -507,7 +557,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Клиент Mega",
-        "class": "tools"
+        "class": "tools",
+        "number": "51"
     },
     {
         "name": "Smash It!",
@@ -517,7 +568,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "52"
     },
     {
         "name": "VPN Unlimited",
@@ -527,7 +579,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "VPN клиент",
-        "class": "tools"
+        "class": "tools",
+        "number": "53"
     },
     {
         "name": "Tubecast",
@@ -537,7 +590,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Неофицальный клиент YouTube",
-        "class": "mas"
+        "class": "mas",
+        "number": "54"
     },
     {
         "name": "IP Geo Location",
@@ -547,7 +601,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "55"
     },
     {
         "name": "Geometry Dash",
@@ -557,7 +612,8 @@
         "ratings": 843,
         "price": "Free",
         "ops": "Игра каторая ломает нервы и телефон",
-        "class": "games"
+        "class": "games",
+        "number": "56"
     },
     {
         "name": "Silveos Phone",
@@ -567,7 +623,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "57"
     },
     {
         "name": "WinDesk shell 8.1",
@@ -577,7 +634,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "games"
+        "class": "games",
+        "number": "58"
     },
     {
         "name": "Pixel art studio",
@@ -587,7 +645,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "59"
     },
     {
         "name": "Ozon",
@@ -597,7 +656,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "60"
     },
     {
         "name": "WildBerries",
@@ -607,7 +667,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "61"
     },
     {
         "name": "Google",
@@ -617,7 +678,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "broswer"
+        "class": "broswer",
+        "number": "62"
     },
     {
         "name": "YouTube",
@@ -627,7 +689,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "63"
     },
     {
         "name": "Admin Shell",
@@ -637,7 +700,8 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "",
-        "class": "tools"
+        "class": "tools",
+        "number": "64"
     },
     {
         "name": "Lovit (Max port)",
@@ -647,6 +711,29 @@
         "ratings": 843,
         "price": "Free", 
         "ops": "порт месенджера MAX by Computershik",
-        "class": "mas"
+        "class": "mas",
+        "number": "65"
+    },
+    {
+        "name": "GitHub Legacy",
+        "icon": "apps/icons/legacy_git.png",
+        "file": "apps/GitHubLegacy_1.0.0.35_ARM.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "GitHub For WP by Computershik",
+        "class": "mas",
+        "number": "66"
+    },
+    {
+        "name": "vless app vpn",
+        "icon": "apps/icons/vless_app.png",
+        "file": "apps/GitHubLegacy_1.0.0.35_ARM.appx",
+        "rating": 5,
+        "ratings": 843,
+        "price": "Free", 
+        "ops": "VPN клиент (порт Happ)",
+        "class": "tools",
+        "number": "67"
     }
 ]
