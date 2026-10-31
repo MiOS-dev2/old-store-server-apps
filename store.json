@@ -801,5 +801,16 @@
     "ops": "неофициальный клиент WhatsApp для Windows Phone 8.1 и Windows 10 Mobile",
     "class": "mas",
     "number": "73"
+  },
+  {
+    "name": "ChatGPT",
+    "icon": "apps/icons/chatgpt-74.png",
+    "file": "apps/chatgpt-74.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "ChatGPT For Windows Phone 8/8.1/10",
+    "class": "tools",
+    "number": "74"
   }
 ]
