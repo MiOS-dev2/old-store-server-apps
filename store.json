@@ -856,5 +856,16 @@
     "ops": "Живые обои на Windows Phone 8.1 и новее",
     "class": "tools",
     "number": "78"
+  },
+  {
+    "name": "Яндекс Почта",
+    "icon": "apps/icons/яндекс-почта-79.jpg",
+    "file": "apps/яндекс-почта-79.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Неофициальное приложение Яндекс Почта (PWA)",
+    "class": "tools",
+    "number": "79"
   }
 ]
