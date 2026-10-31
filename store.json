@@ -757,5 +757,16 @@
     "ops": "",
     "class": "tools",
     "number": "69"
+  },
+  {
+    "name": "ReddPlanet",
+    "icon": "apps/icons/reddplanet-70.png",
+    "file": "apps/reddplanet-70.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "",
+    "class": "mas",
+    "number": "70"
   }
 ]
