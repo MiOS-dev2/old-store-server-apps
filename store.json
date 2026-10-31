@@ -834,5 +834,16 @@
     "ops": "Перед установкой на смарт убедитесь, что в вашем виндофоне есть NFC и поддержка Mifare Classic. Если NFC будет отсутствовать, то приложение банально не запустится.",
     "class": "tools",
     "number": "76"
+  },
+  {
+    "name": "Grapher Calculator",
+    "icon": "apps/icons/grapher-calculator-77.png",
+    "file": "apps/grapher-calculator-77.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Графический калькулятор для Windows Phone 8.1 и новее",
+    "class": "tools",
+    "number": "77"
   }
 ]
