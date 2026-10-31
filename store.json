@@ -746,5 +746,16 @@
     "ops": "Востановление VK версии 4.12 от CMP",
     "class": "mas",
     "number": "68"
+  },
+  {
+    "name": "Note +",
+    "icon": "apps/icons/note-69.png",
+    "file": "apps/note-69.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "",
+    "class": "tools",
+    "number": "69"
   }
 ]
