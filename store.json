@@ -768,5 +768,16 @@
     "ops": "",
     "class": "mas",
     "number": "70"
+  },
+  {
+    "name": "Microsoft Solitaire Collection",
+    "icon": "apps/icons/microsoft-solitaire-collection-71.jpg",
+    "file": "apps/microsoft-solitaire-collection-71.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "For Windows 10 Mobile",
+    "class": "games",
+    "number": "71"
   }
 ]
