@@ -889,5 +889,16 @@
     "ops": "PWA банка ВТБ",
     "class": "mas",
     "number": "81"
+  },
+  {
+    "name": "MyLauncher",
+    "icon": "apps/icons/mylauncher-82.png",
+    "file": "apps/mylauncher-82.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Внутри 4 полностью рабочие версии майнкрафт",
+    "class": "games",
+    "number": "82"
   }
 ]
