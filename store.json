@@ -867,5 +867,16 @@
     "ops": "Неофициальное приложение Яндекс Почта (PWA)",
     "class": "tools",
     "number": "79"
+  },
+  {
+    "name": "Remote Desktop",
+    "icon": "apps/icons/remote-desktop-80.jpg",
+    "file": "apps/remote-desktop-80.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Remote Desktop для Windows 10 Mobile — приложение для удалённого подключения к компьютерам через протокол RDP, запуска программ и доступа к системным ресурсам и настройкам.",
+    "class": "tools",
+    "number": "80"
   }
 ]
