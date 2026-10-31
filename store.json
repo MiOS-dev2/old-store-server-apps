@@ -812,5 +812,16 @@
     "ops": "ChatGPT For Windows Phone 8/8.1/10",
     "class": "tools",
     "number": "74"
+  },
+  {
+    "name": "kicqUWP",
+    "icon": "apps/icons/kicquwp-75.png",
+    "file": "apps/kicquwp-75.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "KicqUWP - icq клиент реализующий протокол OSCAR.",
+    "class": "mas",
+    "number": "75"
   }
 ]
