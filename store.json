@@ -790,5 +790,16 @@
     "ops": "Легко покупай и продавай",
     "class": "tools",
     "number": "72"
+  },
+  {
+    "name": "Sup",
+    "icon": "apps/icons/sup-73.png",
+    "file": "apps/sup-73.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "неофициальный клиент WhatsApp для Windows Phone 8.1 и Windows 10 Mobile",
+    "class": "mas",
+    "number": "73"
   }
 ]
