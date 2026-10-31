@@ -878,5 +878,16 @@
     "ops": "Remote Desktop для Windows 10 Mobile — приложение для удалённого подключения к компьютерам через протокол RDP, запуска программ и доступа к системным ресурсам и настройкам.",
     "class": "tools",
     "number": "80"
+  },
+  {
+    "name": "ВТБ",
+    "icon": "apps/icons/втб-81.jpg",
+    "file": "apps/втб-81.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "PWA банка ВТБ",
+    "class": "mas",
+    "number": "81"
   }
 ]
