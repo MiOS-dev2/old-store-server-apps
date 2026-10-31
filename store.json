@@ -845,5 +845,16 @@
     "ops": "Графический калькулятор для Windows Phone 8.1 и новее",
     "class": "tools",
     "number": "77"
+  },
+  {
+    "name": "Live Wallpaper",
+    "icon": "apps/icons/live-wallpaper-78.png",
+    "file": "apps/live-wallpaper-78.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Живые обои на Windows Phone 8.1 и новее",
+    "class": "tools",
+    "number": "78"
   }
 ]
