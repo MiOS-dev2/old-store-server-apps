@@ -779,5 +779,16 @@
     "ops": "For Windows 10 Mobile",
     "class": "games",
     "number": "71"
+  },
+  {
+    "name": "Юла",
+    "icon": "apps/icons/юла-72.jpg",
+    "file": "apps/юла-72.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Легко покупай и продавай",
+    "class": "tools",
+    "number": "72"
   }
 ]
