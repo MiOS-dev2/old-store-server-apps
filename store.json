@@ -900,5 +900,16 @@
     "ops": "Внутри 4 полностью рабочие версии майнкрафт",
     "class": "games",
     "number": "82"
+  },
+  {
+    "name": "Anime Go",
+    "icon": "apps/icons/anime-go-83.png",
+    "file": "apps/anime-go-83.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Бесплатный сервис для скачивания и просмотра аниме",
+    "class": "mas",
+    "number": "83"
   }
 ]
