@@ -911,5 +911,16 @@
     "ops": "Бесплатный сервис для скачивания и просмотра аниме",
     "class": "mas",
     "number": "83"
+  },
+  {
+    "name": "Мой МТС",
+    "icon": "apps/icons/мой-мтс-84.png",
+    "file": "apps/мой-мтс-84.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "",
+    "class": "tools",
+    "number": "84"
   }
 ]
