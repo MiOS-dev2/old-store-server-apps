@@ -922,5 +922,16 @@
     "ops": "",
     "class": "tools",
     "number": "84"
+  },
+  {
+    "name": "t2",
+    "icon": "apps/icons/t2-85.png",
+    "file": "apps/t2-85.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Порт приложения t2 (TELE2) для Windows Phone 7.1 и выше\r\n(РАБОТАЕТ НА W10M!!!)",
+    "class": "tools",
+    "number": "85"
   }
 ]
