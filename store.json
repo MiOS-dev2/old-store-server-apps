@@ -944,5 +944,16 @@
     "ops": "Telegram клиент для WP 8.1",
     "class": "mas",
     "number": "86"
+  },
+  {
+    "name": "Microsoft App Installer",
+    "icon": "apps/icons/microsoft-app-installer-87.png",
+    "file": "apps/microsoft-app-installer-87.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Эта программа заменяет стандартный установщик приложений на Windows 10 Mobile",
+    "class": "tools",
+    "number": "87"
   }
 ]
