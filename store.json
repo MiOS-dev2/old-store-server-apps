@@ -933,5 +933,16 @@
     "ops": "Порт приложения t2 (TELE2) для Windows Phone 7.1 и выше\r\n(РАБОТАЕТ НА W10M!!!)",
     "class": "tools",
     "number": "85"
+  },
+  {
+    "name": "Lumigram+",
+    "icon": "apps/icons/lumigram-86.png",
+    "file": "apps/lumigram-86.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Telegram клиент для WP 8.1",
+    "class": "mas",
+    "number": "86"
   }
 ]
