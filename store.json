@@ -1010,5 +1010,16 @@
     "ops": "Туту Электрички — это точное расписание и билеты на пригородные поезда, включая Ласточки и МЦД.",
     "class": "tools",
     "number": "92"
+  },
+  {
+    "name": "Google Drive",
+    "icon": "apps/icons/google-drive-93.png",
+    "file": "apps/google-drive-93.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "• вход в Google аккаунт\r\n• просмотр файлов\r\n• скачивание файлов\r\n• создание .txt .pdf .docx\r\n• открытие папок\r\n• открытие .txt .pdf .docx .xlsx\r\n• редактирование .txt .docx\r\n• удаление/перейменование файлов",
+    "class": "tools",
+    "number": "93"
   }
 ]
