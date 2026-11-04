@@ -955,5 +955,16 @@
     "ops": "Эта программа заменяет стандартный установщик приложений на Windows 10 Mobile",
     "class": "tools",
     "number": "87"
+  },
+  {
+    "name": "Kolors",
+    "icon": "apps/icons/kolors-88.jpg",
+    "file": "apps/kolors-88.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Устаревший браузер для WP 7",
+    "class": "broswer",
+    "number": "88"
   }
 ]
