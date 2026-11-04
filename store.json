@@ -1054,5 +1054,16 @@
     "ops": "FunCAD — это мощное и стильное приложение для построения графиков под Windows Phone. Оно открывает полную свободу визуализации: от классических 2D и полярных",
     "class": "tools",
     "number": "96"
+  },
+  {
+    "name": "Bluetooth File Transfer",
+    "icon": "apps/icons/bluetooth-file-transfer-97.png",
+    "file": "apps/bluetooth-file-transfer-97.appxbundle",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "",
+    "class": "tools",
+    "number": "97"
   }
 ]
