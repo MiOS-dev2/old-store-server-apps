@@ -1021,5 +1021,16 @@
     "ops": "• вход в Google аккаунт\r\n• просмотр файлов\r\n• скачивание файлов\r\n• создание .txt .pdf .docx\r\n• открытие папок\r\n• открытие .txt .pdf .docx .xlsx\r\n• редактирование .txt .docx\r\n• удаление/перейменование файлов",
     "class": "tools",
     "number": "93"
+  },
+  {
+    "name": "Wikipedia",
+    "icon": "apps/icons/wikipedia-94.png",
+    "file": "apps/wikipedia-94.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "",
+    "class": "tools",
+    "number": "94"
   }
 ]
