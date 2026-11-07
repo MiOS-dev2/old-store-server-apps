@@ -1098,5 +1098,16 @@
     "ops": "[ПРИМЕЧАНИЕ: ИСПОЛЬЗУЙТЕ PC DEPLOYMENT ДЛЯ УСТАНОВКИ ЭТОГО ПРИЛОЖЕНИЯ]\r\n\r\n(Исправлено для newRetiled. Пока не все работает)\r\n\r\n\r\n\r\nMSN Погода: лучший способ спланировать свой день.",
     "class": "tools",
     "number": "100"
+  },
+  {
+    "name": "LitRes",
+    "icon": "apps/icons/litres-101.png",
+    "file": "apps/litres-101.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "ЧИТАЙ!!!",
+    "class": "tools",
+    "number": "101"
   }
 ]
