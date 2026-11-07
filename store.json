@@ -1109,5 +1109,16 @@
     "ops": "ЧИТАЙ!!!",
     "class": "tools",
     "number": "101"
+  },
+  {
+    "name": "Google Revived",
+    "icon": "apps/icons/google-revived-102.png",
+    "file": "apps/google-revived-102.xap",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Google Browser \r\n[Windows Phone 8.1]",
+    "class": "broswer",
+    "number": "102"
   }
 ]
