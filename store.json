@@ -1120,5 +1120,16 @@
     "ops": "Google Browser \r\n[Windows Phone 8.1]",
     "class": "broswer",
     "number": "102"
+  },
+  {
+    "name": "Megler",
+    "icon": "apps/icons/megler.png",
+    "file": "https://github.com/Computershik73/megler-w10m/releases/download/v0.1.0.734/Megler_0.1.0.734_ARM.appx",
+    "rating": 0,
+    "ratings": 0,
+    "price": "Free",
+    "ops": "Программа позволяющая запускать ANDROID приложения прямо на Windows 10 Mobile! \r\nАвтор CMP \r\nСамые новые версии на GitHub: \r\nhttps://github.com/Computershik73/megler-w10m/releases/",
+    "class": "tools",
+    "number": "103"
   }
 ]
